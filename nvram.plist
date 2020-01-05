@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EFILoginHiDPI</key>
+	<data>
+	AAAAAA==
+	</data>
+	<key>EmuVariableUefiPresent</key>
+	<data>
+	WWVz
+	</data>
+	<key>SystemAudioVolume</key>
+	<data>
+	Gg==
+	</data>
+	<key>SystemAudioVolumeDB</key>
+	<data>
+	0A==
+	</data>
+	<key>backlight-level</key>
+	<data>
+	bgI=
+	</data>
+	<key>bluetoothActiveControllerInfo</key>
+	<data>
+	kTTTEwAAAABwFIDF8oJiRg==
+	</data>
+	<key>csr-active-config</key>
+	<data>
+	ZwAAAA==
+	</data>
+	<key>efi-boot-device</key>
+	<data>
+	PGFycmF5PjxkaWN0PjxrZXk+SU9NYXRjaDwva2V5PjxkaWN0PjxrZXk+SU9Qcm92aWRl
+	ckNsYXNzPC9rZXk+PHN0cmluZz5JT01lZGlhPC9zdHJpbmc+PGtleT5JT1Byb3BlcnR5
+	TWF0Y2g8L2tleT48ZGljdD48a2V5PlVVSUQ8L2tleT48c3RyaW5nPjg4QjU0MjVBLTIx
+	MDYtNEEzQy04RjlBLTgyRDVDMkQxMTAwQzwvc3RyaW5nPjwvZGljdD48L2RpY3Q+PC9k
+	aWN0PjwvYXJyYXk+
+	</data>
+	<key>efi-boot-device-data</key>
+	<data>
+	AgEMANBBAwoAAAAAAQEGAAAXAxIKAAEA//8AAAQBKgACAAAAKEAGAAAAAAAA5ngKAAAA
+	AFpCtYgGITxKj5qC1cLREAwCAgQDJAD3/HS+fAvzSZFHAfQELmhCItqNYEgcD0ybOlqy
+	3ItSj3//BAA=
+	</data>
+	<key>flagstate</key>
+	<data>
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+	</data>
+	<key>fmm-computer-name</key>
+	<data>
+	TWFjQm9vayBQcm8=
+	</data>
+	<key>security-mode</key>
+	<string>none</string>
+	<key>specialbootdevice</key>
+	<data>
+	AgEMANBBAwoAAAAAAQEGAAAXAxIKAAEA//8AAAQBKgACAAAAKEAGAAAAAAAA5ngKAAAA
+	AFpCtYgGITxKj5qC1cLREAwCAgQDJAD3/HS+fAvzSZFHAfQELmhCItqNYEgcD0ybOlqy
+	3ItSj3//BAA=
+	</data>
+</dict>
+</plist>
